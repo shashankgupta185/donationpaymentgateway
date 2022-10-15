@@ -1,1 +1,1 @@
-# SimplePaymentGateway
+DonationPaymentGateway
